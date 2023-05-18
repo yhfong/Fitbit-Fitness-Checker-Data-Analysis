@@ -1,1 +1,1 @@
-# Google-Data-Analytics-Professional-Case-Study-2
+# Google Data Analytics-Professional Ceterficate - Case Study 2
