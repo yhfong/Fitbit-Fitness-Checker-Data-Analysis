@@ -1,4 +1,4 @@
-# Google Data Analytics-Professional Ceterficate - Case Study 2
+# Fitbit Fitness Checker Data Analysis
 
 Here is the Case study project for the Google Data Analytics Professional Certificate.
 
